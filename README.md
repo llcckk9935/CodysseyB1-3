@@ -108,17 +108,18 @@ flowchart LR
 > **캡처 자료 1:** Make 전체 Scenario 구성 화면
 > <img width="1077" height="910" alt="MAKE_실행성공" src="https://github.com/user-attachments/assets/0999363b-0a37-4369-bf87-da506ffc72d5" />
  
-> **캡처 자료 2:** 긴급·일반 경로가 각각 1회 실행된 Make 화면
->  <img width="1077" height="910" alt="MAKE_실행성공" src="https://github.com/user-attachments/assets/27760419-ccce-4fbc-99af-03579475bd07" />
-
 > **캡처 자료 3:** 긴급요청·일반요청 Google Sheets 결과
+> 
 > <img width="266" height="205" alt="구글시트_일반요청" src="https://github.com/user-attachments/assets/60719df6-5cd8-4e3e-8d8f-f84d80f6280c" />
+
 <img width="262" height="205" alt="구글시트_긴급요청" src="https://github.com/user-attachments/assets/9457cfa7-0ce4-4537-bb89-03f0ff59bf49" />
 
 > **캡처 자료 4:** Make에서 발송된 긴급·일반 Gmail 결과
+> <img width="1011" height="240" alt="Gmail_메일도착" src="https://github.com/user-attachments/assets/b60099b9-7e11-4d67-b399-6330b0578673" />
+
 > <img width="1023" height="385" alt="Gmail_일반알림" src="https://github.com/user-attachments/assets/3560cc24-af55-4206-a460-4ccc8e4c5e23" />
+
 <img width="1022" height="390" alt="Gmail_긴급알림" src="https://github.com/user-attachments/assets/f71b940b-aa2e-4af9-97fd-95c40e59ac98" />
-<img width="1011" height="240" alt="Gmail_메일도착" src="https://github.com/user-attachments/assets/b60099b9-7e11-4d67-b399-6330b0578673" />
 
 
 ---
