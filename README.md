@@ -108,13 +108,13 @@ flowchart LR
 > **캡처 자료 1:** Make 전체 Scenario 구성 화면
 > <img width="1077" height="910" alt="MAKE_실행성공" src="https://github.com/user-attachments/assets/0999363b-0a37-4369-bf87-da506ffc72d5" />
  
-> **캡처 자료 3:** 긴급요청·일반요청 Google Sheets 결과
+> **캡처 자료 2:** 긴급요청·일반요청 Google Sheets 결과
 > 
 > <img width="266" height="205" alt="구글시트_일반요청" src="https://github.com/user-attachments/assets/60719df6-5cd8-4e3e-8d8f-f84d80f6280c" />
 
 <img width="262" height="205" alt="구글시트_긴급요청" src="https://github.com/user-attachments/assets/9457cfa7-0ce4-4537-bb89-03f0ff59bf49" />
 
-> **캡처 자료 4:** Make에서 발송된 긴급·일반 Gmail 결과
+> **캡처 자료 3:** Make에서 발송된 긴급·일반 Gmail 결과
 > <img width="1011" height="240" alt="Gmail_메일도착" src="https://github.com/user-attachments/assets/b60099b9-7e11-4d67-b399-6330b0578673" />
 
 > <img width="1023" height="385" alt="Gmail_일반알림" src="https://github.com/user-attachments/assets/3560cc24-af55-4206-a460-4ccc8e4c5e23" />
@@ -155,20 +155,26 @@ Publish된 Zap에서 홍길동의 긴급 요청은 긴급 Path를 통해 처리�
 - `[긴급 업무 요청] 새로운 요청이 등록되었습니다.` — 홍길동 / 긴급 서버 점검 요청 / 긴급
 - `[일반 업무 요청] 새로운 요청이 등록되었습니다.` — 이영희 / 다음 회의자료 준비 요청 / 일반
 
-> **캡처 자료 5:** Zapier 전체 Zap 구성 화면
+> **캡처 자료 4:** Zapier 전체 Zap 구성 화면
+> 
 > <img width="1070" height="826" alt="Zapier_workflow" src="https://github.com/user-attachments/assets/eb3018ad-8b24-4569-988d-da7acc866d22" />
-> **캡처 자료 6:** `Success! Your Zap is live!` Publish 완료 화면
-> <img width="1065" height="896" alt="스크린샷 2026-08-08 224405" src="https://github.com/user-attachments/assets/77471dbe-a4ee-4e07-afac-72fcc79c5200" />
-> **캡처 자료 7:** Zapier 실행 후 긴급요청·일반요청 시트 결과
+
+> **캡처 자료 5:** Zapier 실행 후 긴급요청·일반요청 시트 결과
+> 
 > <img width="343" height="280" alt="Zapier_긴급sheet" src="https://github.com/user-attachments/assets/de61c75a-4451-4c00-9a29-cb8393120d48" />
+
 <img width="525" height="303" alt="Zapier_일반sheet" src="https://github.com/user-attachments/assets/17286e03-a7f8-42a1-adcf-1a138aa40f31" />
-> **캡처 자료 8:** 긴급·일반 메일이 함께 보이는 받은편지함 
+
+> **캡처 자료 6:** 긴급·일반 메일이 함께 보이는 받은편지함
+> 
 <img width="1011" height="365" alt="Zapier_메일도착" src="https://github.com/user-attachments/assets/d94cc121-a847-4348-8e76-17cf074f6e1d" />
 
-> **캡처 자료 9:** Zapier에서 발송된 긴급 메일 상세 화면
+> **캡처 자료 7:** Zapier에서 발송된 긴급 메일 상세 화면
+> 
 > <img width="1008" height="534" alt="Zapier_긴급메일" src="https://github.com/user-attachments/assets/2e2d4d5f-2fd7-4e0a-a641-dec6aba1b22d" />
 
-> **캡처 자료 10:** Zapier에서 발송된 일반 메일 상세 화면
+> **캡처 자료 8:** Zapier에서 발송된 일반 메일 상세 화면
+> 
 <img width="1017" height="522" alt="Zapier_일반메일" src="https://github.com/user-attachments/assets/e04b8c9d-1372-435d-ab25-cd638f7ecc5f" />
 
 ---
