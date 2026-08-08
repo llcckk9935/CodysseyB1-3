@@ -123,7 +123,7 @@ flowchart LR
 | Path rule 1 | `중요도 Exactly matches 긴급` | 긴급 데이터만 긴급 Path로 전달 |
 | Path rule 2 | `중요도 Exactly matches 일반` | 일반 데이터만 일반 Path로 전달 |
 | Action 1 | Google Sheets — `Create Spreadsheet Row` | 해당 분류 탭에 원본 데이터를 기록 |
-| Action 2 | Gmail — `Send Email` | 긴급도에 맞는 이메일 발송 |
+| Action 2 | Gmail — `Send Email` | 중요도에 맞는 이메일 발송 |
 
 ### 5.2 구현 과정 요약
 
